@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>Krishiss image data</head>
+  <body>
+    <img src="virat.jpg">"THE BEST BATSMAN"/>
+    <video src="html tutorial.mp4" autoplay controls width="450"></video>
+    <iframe width="330" height="200" src="https://www.youtube.com/embed/YQX7JYQjDOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <ul>
+      <li>apples</li>
+      <li>oranges</li>
+      <li>bananas</li>
+    </ul>
+    <ol type I>
+      <li>apples</li>
+      <li>oranges</li>
+      <li>bananas</li>
+    </ol>
+    <ol type A>
+      <li>krishi</li>
+      <li>raji</li>
+      <li>meghna</li> 
+    </ol>
+    <dl>Apple<dt>
+      <dd>they are red</dd>
+    </dl>
+    <table>
+      <caption><h1>THE NUMBER LIST</h1>
+       <tr>
+        <th>one</th>
+        <th>two</th>
+        <th>three</th>
+      </tr>
+      
+      <tr>
+        <td>one</td>
+        <td>two</td>
+        <td>three</td>
+      </tr>
+      <tr>
+        <td colspan="2">one</td>
+        <td>two</td>
+        <td>three</td>
+      </tr>
+    </table>
+</body>
+</html>
