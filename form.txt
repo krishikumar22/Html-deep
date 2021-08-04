@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><h1> WHY IT JOBS? </title>
+  </head>
+  <body>
+   <span>hitler</span>
+   <span>adolf</span>
+   <div>hitler</div>
+   <div>adolf</div>
+   <input type="submit" />
+   <input type="text" />
+   
+   <input type="range" />
+   
+   <input type="date" />
+   
+   <input type="color" />
+   
+   <input type="checkbox" />
+   
+   <input type="file" />
+
+  </body>
+</html>
